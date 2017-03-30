@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="behavioral" target="1.5" />
+      <module name="behavioral" target="1.8" />
       <module name="creational" target="1.5" />
       <module name="designpatterns" target="1.5" />
     </bytecodeTargetLevel>
