@@ -1,0 +1,3 @@
+URL,String,Expression,String
+http://freegeoip.net/json/www.oreilly.com,ABC,24+6/3,Second ABC
+http://freegeoip.net/json/www.oreilly.com,XYZ,4+5-3+6*3,SecondXYZ
