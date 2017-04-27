@@ -3,7 +3,7 @@ import java.util.Arrays;
 /**
  * @author Sandip Singh.
  */
-public class IsUnique {
+public class UniqueCharacters {
 
     /**
      * Brute force way of finding if String has unique characters.
